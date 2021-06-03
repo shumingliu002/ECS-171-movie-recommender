@@ -1,0 +1,8 @@
+streamlit==0.70.0
+pandas==1.0.5
+scikit_surprise==1.1.1
+seaborn==0.10.1
+numpy==1.19.5
+matplotlib==3.2.2
+scikit_learn==0.24.2
+surprise==0.1
